@@ -1,0 +1,6 @@
+syntax="proto3";
+message Todo{
+   required string id=1;
+  required  string title=2;
+  required  string content=3
+}
